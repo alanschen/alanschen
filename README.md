@@ -1,4 +1,4 @@
-## Hello there!<img src="https://github.com/alanschen/alanschen/blob/main/res/shiba-bread.png" width="20" height="20" />
+## Hello there!!
 
 
 <img src="https://github.com/alanschen/alanschen/blob/main/res/shiba-gif.gif" width="200" height="200" />
