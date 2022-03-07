@@ -7,6 +7,6 @@ Currently, I'm a new grad software engineer at [@Google](https://github.com/goog
 Always looking for fun projects in ML & AI, feel free reach out to me at alanschen(at)gmail.com for a chat!
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=alanschen&count_private=true&show_icons=true&theme=tokyonight" height="250dp"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanschen&theme=tokyonight&langs_count=4" height="250dp" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alanschen&count_private=true&show_icons=true&theme=tokyonight" height="200dp"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanschen&theme=tokyonight&langs_count=4" height="200dp" />
 </div>
